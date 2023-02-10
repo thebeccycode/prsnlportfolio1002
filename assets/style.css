@@ -1,4 +1,18 @@
-body{
+body {
     background-color: black;
     color: white;
+    font-family: Helvetica;
+}
+
+#navbar {
+    margin: 20px;
+    padding: 50px;
+    font-size: 38px;
+}
+
+#statement-container {
+    border-color: white;
+    border-style: dotted;
+    margin: 20px;
+    text-align: center;
 }
